@@ -29,7 +29,7 @@ final = GameSprite("tresuare.png", win_width = 120, win_height = 80, 0)
 
 game = True
 clock = time.Clock()
-FPS = 60
+FPS = 45
 
 mixer.init()
 mixer.music.load("jungle.ogg")
